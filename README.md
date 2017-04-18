@@ -1,7 +1,7 @@
 # About Me
 I am a first year student at [Olin College of Engineering](http://www.olin.edu/) studying software engineering. I am interested in human computer interaction, cyber security, and machine learning. I have previously worked at Draper Labs in Cambridge, MA.
 
-This is where I put the most up to date information about my software projects, but you can also check out my [Resume]() and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
+This is where I put the most up to date information about my software projects, but you can also check out my [Resume](#) and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
 
 # Projects
 
