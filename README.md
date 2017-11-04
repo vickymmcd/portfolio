@@ -11,7 +11,7 @@ Working with 1 other student, I created a robot which uses two IR sensors to fol
 
 ### 3D Scanner
 #### [Source Code](https://github.com/vickymmcd/PoeLab2), [Lab Report](https://github.com/vickymmcd/PoeLab2/blob/master/lab2_mcdermott_behrakis%20(3).pdf)
-Working with 1 other student, I created a 3D scanner using a pan tilt mechanism. I created a Python script which interfaces with Serial using the pyserial library to communicate with Arduino. This script was able to set the 3D scanner into motion and graph the results of a scan from our scanner using matplotlib.
+Working with 1 other student, I created a 3D scanner using a pan tilt mechanism. I created a Python script which interfaces with Serial using the pyserial library to communicate with Arduino. This script was able to set the 3D scanner into motion and graph the results of a scan from our scanner using matplotlib. I also worked on Arduino code to sweep our pan tilt mechanism over an area to be scanned.
 
 ### Interactive Visualization
 #### [Source Code](https://github.com/vickymmcd/InteractiveProgramming), [Project Website](https://vickymmcd.github.io/InteractiveProgramming/)
