@@ -13,6 +13,10 @@ Working with 1 other student, I created a robot which uses two IR sensors to fol
 #### [Source Code](https://github.com/vickymmcd/PoeLab2), [Lab Report](https://github.com/vickymmcd/PoeLab2/blob/master/lab2_mcdermott_behrakis%20(3).pdf)
 Working with 1 other student, I created a 3D scanner using a pan tilt mechanism. I created a Python script which interfaces with Serial using the pyserial library to communicate with Arduino. This script was able to set the 3D scanner into motion and graph the results of a scan from our scanner using matplotlib. I also worked on Arduino code to sweep our pan tilt mechanism over an area to be scanned.
 
+### Hipster Networks
+#### [Source Code](https://github.com/ComplexityVE/HipsterNetworks), [Final Report](https://github.com/ComplexityVE/HipsterNetworks/blob/master/reports/final_report.md)
+Working with 1 other student, I replicated and extended on the work done in the paper by Juul and Porter where they investigated the spread of products in a network with a variety of people classified as hipsters or conformists. We used Python to siulate the spread of ideas on a Facebook dataset. We investigated the distribution of ideas at steady state with varying starting states and parameters.
+
 ### Interactive Visualization
 #### [Source Code](https://github.com/vickymmcd/InteractiveProgramming), [Project Website](https://vickymmcd.github.io/InteractiveProgramming/)
 Working with 1 other student, I created a program that predicts where someone is from and what their age is based on their responses to a survey. The predictions are updated after every question is answered. We visually depict these predictions using a map of the US and an age line. We used Bayesian statistics and two datasets (one about grammar and one about earthquakes) as background information to make our predictions.
