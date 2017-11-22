@@ -5,6 +5,10 @@ This is where I put the most up to date information about my software projects, 
 
 # Projects
 
+### Cash You, Fall 2017
+#### [Source Code](https://github.com/CashYou/CashYou), [Website](http://cashyou.herokuapp.com/)
+Working with 3 other students, I built the framework for a social investing web application, called Cash You, at a hackathon at Harvard called HackHarvard 2017. I worked mostly on the front end for the website, creating a flask app to get our backend Python code integrated and setting up our application to be hosted on heroku. We won the best financial hack award at the hackathon for our application.
+
 ### Line Following Robot, Fall 2017
 #### [Source Code](https://github.com/Follow-That-Line/PoeLab3), [Lab Report](https://github.com/Follow-That-Line/PoeLab3/blob/master/POE_Lab_3%20(1)%20(2).pdf), [Video](https://www.youtube.com/watch?v=Zpd-80-eS0Q&feature=youtu.be)
 Working with 1 other student, I created a robot which uses two IR sensors to follow a black line on the ground. I created a Serial interface in Python using the pyserial library to communicate with the Arduino and start and stop the motion of the robot. I wrote most of the control loop logic for line following in the Arduino program. I also worked on the electrical integration of the robot.
