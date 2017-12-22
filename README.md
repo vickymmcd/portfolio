@@ -1,9 +1,13 @@
 # About Me
 I am a sophomore student at [Olin College of Engineering](http://www.olin.edu/) studying software engineering. I am interested in human computer interaction, cyber security, and machine learning. I have previously worked at Draper Labs in Cambridge, MA.
 
-This is where I put the most up to date information about my software projects, but you can also check out my [Resume](#) and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
+This is where I put the most up to date information about my software projects, but you can also check out my [Resume](https://github.com/vickymmcd/portfolio/blob/master/VickyResume.doc%20(4)%20(2).pdf) and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
 
 # Projects
+
+### Complex Kinect, Fall 2017
+#### [Source Code](https://github.com/ComplexKinect), [Website](http://poe.olin.edu/2017/complexkinect/)
+Working with a team of 4 other students, I helped to develop an integrated system which combined mechanial, electrical, and software components as a final project for my principles of engineering course. We developed an interactive art sculpture, meant to be visually appealing while engaging a larger audience. I got to work some on system integration and design, but I worked mainly on developing the software for the system. The software included a Python flask web application which allowed the user to toggle between different input methods for the movement of the flower nodes on our sculpture. The input that I spent the most time on was the motion detection input mode. For this mode, I made use of a raspberry pi camera mounted to the front of our structure to capture and detect motion in six different vertical sections of view and send messages representing the sections of movement to the arduino to move the corresponding servos. I also got the opportunity to learn about threading and processing in Python as I developed code to process video input and send messages to the arduino in parallel.
 
 ### Cash You, Fall 2017
 #### [Source Code](https://github.com/CashYou/CashYou), [Website](http://cashyou.herokuapp.com/)
