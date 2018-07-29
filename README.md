@@ -1,9 +1,17 @@
 # About Me
-I am a sophomore student at [Olin College of Engineering](http://www.olin.edu/) studying software engineering. I am interested in human computer interaction, cyber security, and machine learning. I have previously worked at Draper Labs in Cambridge, MA.
+I am a junior student at [Olin College of Engineering](http://www.olin.edu/) studying software engineering. I am interested in human computer interaction, robotics, cyber security, and machine learning. I have previously worked at Draper Labs in Cambridge, MA and Locus Robotics in Wilmington MA.
 
-This is where I put the most up to date information about my software projects, but you can also check out my [Resume](https://github.com/vickymmcd/portfolio/blob/master/VickyResume.doc%20(4)%20(2).pdf) and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
+This is where I put the most up to date information about my projects, but you can also check out my [Resume](https://github.com/vickymmcd/portfolio/blob/master/VickyResume.doc%20(4)%20(2).pdf) and [LinkedIn Page](https://www.linkedin.com/in/victoria-mcdermott-264812124/)
 
 # Projects
+
+### Escape the Room Game in C, Spring 2018
+#### [Souce Code](https://github.com/vickymmcd/SillyString), [Final Report](https://github.com/vickymmcd/SillyString/blob/master/reports/report.md)
+As part of my software systems course in which I was learning the C programming language, I created an interactive, text based, escape the room game using the NCURSES library. The game includes 3 different question types. One is a multiple choice question with a scrolling option menu, one is a mouse click question that takes mouse click input from a certain section of the terminal window, and the last is a free response question which allows the user to type out their response to the puzzle question. A player must answer the series of 3 puzzle question correctly in order to escape the room!
+
+### Digging Deeper: A Dirt to Table Recipe Adventure, Spring 2018
+#### [Final Poster](https://github.com/vickymmcd/portfolio/blob/master/final_poster.pdf), [Broad Interaction Map](https://github.com/vickymmcd/portfolio/blob/master/Personal_int_map.pdf), [Requirements Chart](https://github.com/vickymmcd/portfolio/blob/master/Requirements_Chart_Final.pdf)
+As part of an engineering design class called, User Oriented Collaborative Design, I had the opportunity to work with a team of four other students to design a product or service that could significantly better the lives of our user group, community farmers. We met with many farmers in the Massachusetts area and learned about their lives. We participated in collaborative design activities with these farmers and considered many ideas before settling on our service, Digging Deeper. The Digging Deeper service aims to aims to create more community involvement and awareness around farming through a scavenger hunt program where participants gather ingredients from around the farm and then use those ingredients to cook a farm fresh recipe at home. The goal of the service is to increase awareness about where our food comes from and to promote healthy eating in the community, something that was valued highly by many of the farmers we spoke to.
 
 ### Complex Kinect, Fall 2017
 #### [Source Code](https://github.com/ComplexKinect), [Website](http://poe.olin.edu/2017/complexkinect/)
